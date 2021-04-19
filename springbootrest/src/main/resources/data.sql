@@ -1,0 +1,1 @@
+insert into user values(1, b'1', "sujeet.sharma2395@gmail.com", "sujeet","kumar", "9971879231", "sujeet kumar", "sharma2395","ADMIN","sujeet2395");
